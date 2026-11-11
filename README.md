@@ -1,3 +1,8 @@
+## ThinkPHP-PanGu - 盘古ThinkPHP开源索引!
+面向 ThinkPHP 的开源工程索引：组件、框架、服务与发布工具，按能力组织，持续整理。
+仓库地址：**<https://github.com/indiboy-create/ThinkPHP-PanGu/>**
+在线站点：**<https://indiboy-create.github.io/ThinkPHP-PanGu/>**
+
 # think-theme
 
 ThinkPHP 8 设备主题切换组件。基于 [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) 识别访问设备，自动将视图定位到 `computer`、`phone`、`tablet`、`wechat` 等不同的模板目录。
